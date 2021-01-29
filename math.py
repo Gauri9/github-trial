@@ -5,4 +5,4 @@ def sub()
 def multiply()
     retrun b*c
 def divide
-    a=b/c
+    return b/c
